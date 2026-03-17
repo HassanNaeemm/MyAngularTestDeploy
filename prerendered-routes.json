@@ -1,7 +1,3 @@
 {
-  "routes": {
-    "/HassanNaeemm/MyAngularTestDeploy": {},
-    "/HassanNaeemm/MyAngularTestDeploy/confidential": {},
-    "/HassanNaeemm/MyAngularTestDeploy/login": {}
-  }
+  "routes": {}
 }
